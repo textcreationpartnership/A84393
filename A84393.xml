@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning riots Occasioned by some of the people called Quakers, being imprisoned and indicted for a riot, for only being at a peaceable meeting to worship God. Written by one of that people, Thomas Ellwood.</title>
+            <author>Ellwood, Thomas, 1639-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84393</idno>
+            <idno type="STC">Wing E618A</idno>
+            <idno type="STC">ESTC R229440</idno>
+            <idno type="EEBO-CITATION">99895680</idno>
+            <idno type="PROQUEST">99895680</idno>
+            <idno type="VID">153190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2353:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning riots Occasioned by some of the people called Quakers, being imprisoned and indicted for a riot, for only being at a peaceable meeting to worship God. Written by one of that people, Thomas Ellwood.</title>
+                  <author>Ellwood, Thomas, 1639-1713.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark in George-Yard in Lombard-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIII. [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Riots --  England --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153190:1"/>
+            <p>A DISCOURSE CONCERNING RIOTS.</p>
+            <p>Occaſioned by ſome of the People called <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi> being Impriſoned and Indicted for a <hi>RIOT,</hi> for only being at a peaceable Meeting to Wor<g ref="char:EOLhyphen"/>ſhip <hi>GOD.</hi>
+            </p>
+            <p>Written by one of that People, <hi>THOMAS ELLWOOD.</hi>
+            </p>
+            <q>
+               <p>Thou ſhalt not <hi>Wreſt</hi> Judgment, <bibl>
+                     <hi>Deut. 16.19.</hi>
+                  </bibl>
+               </p>
+               <p>If thou ſeeſt the Oppreſſion of the Poor, and violent <hi>Perverting</hi> of Judgment and Juſtice in a Province, marvel not at the mat<g ref="char:EOLhyphen"/>ter: for he that is higher than the higheſt, regardeth, and there be higher than they, <bibl>
+                     <hi>Eccl. 5.8.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lombard-Street,</hi> MDCLXXXIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153190:2" rendition="simple:additions"/>
+            <head>The Occaſion of this Diſcourſe.</head>
+            <p>THE Proceedings of late, in City and Country, againſt ſome of the People called Quakers for Riots, for only Meeting peacea<g ref="char:EOLhyphen"/>bly together to ſerve and worſhip God, firſt put me upon In<g ref="char:EOLhyphen"/>quiring into the Nature of Riots. What upon that Inquiry I have found, I here preſent to Publick view, for common benefit, that none through ignorance may be occaſion of bringing an unjuſt ſuffering upon an innocent People, and thereby Guilt upon themſelves. I do not pretend much skill in Law (a Study and Profeſſion I was never bred to.) But having ſpent ſome hours on this Occaſion, in ſearching what the Law Books ſay in this Caſe, I hope I may (without incurring the Cenſure of Preſumption) communicate my Gleanings to ſuch of my well-meaning Country-men, as have not leiſure or opportunity to inform themſelves other<g ref="char:EOLhyphen"/>wiſe. I ſolemnly declare I have no other End or aim in this work, than to do Good and prevent Evil: Which Conſideration, with men of Can<g ref="char:EOLhyphen"/>dour and Ingenuity, will be, I hope, a ſufficient Apology for any ſeem<g ref="char:EOLhyphen"/>ing boldneſs in this <g ref="char:V">Ʋ</g>ndertaking.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:153190:2"/>
+            <head>A Diſcourſe concerning Riots, <hi>&amp;c.</hi>
+            </head>
+            <p>THat the Nature of a <hi>Riot</hi> may be the better underſtood, I intend to obſerve this Method.</p>
+            <p n="1">1. To ſet down the ſtrict and proper Signification of the word.</p>
+            <p n="2">2. To Inquire what the ſtatute Law ſays Concerning it.</p>
+            <p n="3">3. To obſerve what the Common Acceptation of the word <hi>[Riot]</hi> is in Common Law.</p>
+            <p n="4">4. To ſhew the Contrarieties between <hi>Riots</hi> and peaceable Religious <hi>Meetings</hi>
+            </p>
+            <p n="1">1. Then, to begin with the Signification of the word.</p>
+            <p>
+               <hi>Cowell,</hi> a Doctor of the Civil Law, and the King's Profeſſor thereof in the Univerſity of <hi>Cambridge,</hi> ſays, <q>The word Riot (<hi>in Latin,</hi> Riotum) cometh of the French, Rioter, that is, Rixari (<hi>which ſignifies to</hi> Chide, Scold, Brawl, Strive, <hi>or</hi> Quarrel.)</q>
+               <bibl> Cowelli <hi>Interpreter,</hi> verbo <hi>Riot.</hi>
+               </bibl>
+            </p>
+            <p>
+               <hi>Lambard</hi> ſays, <q>Riot I think to be derived from the <hi>French</hi> word <hi>Rioter,</hi> ſignifying to ſcold (or brawl) becauſe ſuch manner of Acts be commonly accompanied with words of Brawl.</q>
+               <bibl> 
+                  <hi>Eirenarcha l.</hi> 2. <hi>cap.</hi> 5.</bibl>
+            </p>
+            <p>
+               <hi>Blunt</hi> ſays, Riot (in French <hi>Riote</hi>) is a <hi>brawling ſcolding Contention.</hi> Gloſſo<g ref="char:EOLhyphen"/>graph. <hi>verbo Riot.</hi>
+            </p>
+            <p>Judge <hi>Coke</hi> ſays, <hi>Riotum</hi> (a Riot) cometh of the <hi>French</hi> word <hi>Riotter</hi> that is, <hi>Rixari:</hi> which (as I noted before) ſignifies to <hi>ſcold, brawl, quarrel,</hi> &amp;c. <hi>it</hi> Inſt. 3. <hi>part cap.</hi> 79. <hi>Tit Riots.</hi>
+            </p>
+            <p>
+               <hi>Keeble</hi> ſays, <q>Riot is of the <hi>French</hi> Riotter, to <hi>ſcold</hi> or <hi>brawl,</hi> becauſe ſuch manner of Acts be commonly accompanied with words of brawl.</q>
+               <bibl> Aſſiſtance to Juſtices of the Peace, <hi>p.</hi> 645.</bibl>
+            </p>
+            <p>This is enough to ſhew how <hi>unapplicable</hi> the word Riot, in its proper and true ſignification, is to a <hi>peaceable, quiet, Religious Meeting,</hi> which admits not of any ſcolding, brawling, quarrelling, or the like.</p>
+            <p n="2">2. As to <hi>Statute-Law,</hi> although divers ſtatutes were antiently made for the Sup<g ref="char:EOLhyphen"/>preſſing of Riots, Routs and unlawful Aſſemblies, as 13 <hi>H.</hi> 4.7. —2 <hi>H.</hi> 5.8. and 19 <hi>H.</hi> 7.13. Yet none of them define or deſcribe what a Riot is. So that I find nothing in the Statute-Law will add Light to this Inquiry; and therefore we muſt have recourſe to the Common-Law, and obſerve,</p>
+            <p n="3">3. What the Common Acceptation of the word <hi>[Riot]</hi> is in the Common Law.</p>
+            <p>
+               <hi>Cowell</hi> ſays, It ſignifies in our Common Law, <hi>the forcible doing of an unlaw<g ref="char:EOLhyphen"/>ful act by three or more Perſons aſſembled together for that purpoſe.</hi>
+            </p>
+            <p>
+               <hi>Cowelli</hi> Interpreter, <hi>verbo Riot. The ſame</hi> ſays <hi>Lambard</hi> in his <hi>Eirenarcha l.</hi> 2.
+<pb n="4" facs="tcp:153190:3"/>
+               <hi>c.</hi> 5. <hi>The ſame</hi> ſays <hi>Weſt,</hi> Part 2. Symbol. Tit. Indictments. <hi>The ſame</hi> ſays <hi>R. Blunt</hi> in his <hi>Gloſſograph. verbo Riot. The ſame</hi> ſays <hi>Tho. Blunt</hi> in his Law-Dictionary, <hi>verbo Riot, The ſame</hi> (in effect) ſays the Book called <hi>Les Termes de le Ley, Tit. Riot,</hi> p. 244. And to <hi>the ſame</hi> purpoſe ſpeaks <hi>Keeble,</hi> in his Aſſiſtance to Juſtices of the Peace, p. 645.</p>
+            <p>Thus in ſhort they define a Riot: but in the further opening of it, there are ſeven things I obſerve the Law-books make eſſential to a Riot; which I will ſet down ſeverally.</p>
+            <p n="1">1. The firſt is the <hi>Number of Perſons</hi> engaged in it; which may be any Num<g ref="char:EOLhyphen"/>ber <hi>above Two.</hi>
+            </p>
+            <p n="2">2. The ſecond is, that <hi>there beſome fact actually done.</hi> For if three Perſons or more ſhould aſſemble together, and with intent to do ſuch an act as would amount to a Riot: yet <hi>if they do it not,</hi> but depart again without doing any thing, <hi>their ſo aſſembling is no Riot.</hi>
+            </p>
+            <p>
+               <q>A Riot, ſays <hi>Lambard,</hi> is thought to be, where three or more perſons be diſorderly aſſembled to commit with force any ſuch unlawful act, <hi>And do accordingly execute the ſame.</hi>
+               </q>
+               <bibl> Eirenarcha l. 2. c. 5.</bibl>
+            </p>
+            <p>Judge <hi>Coke</hi> ſays, <q>Riot in the Common Law ſignifieth when three or more <hi>do</hi> any unlawful act, as to beat a Man, <hi>&amp;c.</hi>
+               </q>
+               <bibl> Inſtit. 3. Part. c. 79. Tit. Riots.</bibl>
+            </p>
+            <p>
+               <q>A Riot, ſays <hi>Pulton,</hi> is where three perſons or above do aſſemble them<g ref="char:EOLhyphen"/>ſelves together to beat or maim a Man, &amp;c. <hi>And they do it.</hi> 
+               </q>
+               <bibl>
+                  <hi>Pult. de Pace Re<g ref="char:EOLhyphen"/>gis, fol.</hi> 25.</bibl>
+            </p>
+            <p>
+               <hi>Dalton</hi> ſays, <q>Where three perſons or more ſhall come or aſſemble them<g ref="char:EOLhyphen"/>ſelves together, to the intent to do any unlawful act, with force or violence, againſt the Peace, or to the manifeſt terror of the People, —<hi>If they <hi>do exe<g ref="char:EOLhyphen"/>cute any ſuch thing indeed,</hi> then it is a Riot.</hi>
+               </q>
+               <bibl> 
+                  <hi>Country Juſtice, c.</hi> 85. <hi>Tit. Ri<g ref="char:EOLhyphen"/>ots.</hi>
+               </bibl> 
+               <hi>The ſame</hi> ſays <hi>Meriton</hi> in his Guide for Conſtables p. 93.</p>
+            <p>
+               <q>A <hi>Riot,</hi> ſays <hi>Keeble,</hi> is thought to be, where three or more perſons be diſ<g ref="char:EOLhyphen"/>orderly aſſembled to commit with force any ſuch unlawful act, <hi>And <hi>do ac<g ref="char:EOLhyphen"/>cordingly execute</hi> the ſame.</hi>
+               </q>
+               <bibl> Aſſiſt. to Juſt. p. 645.</bibl>
+            </p>
+            <p>
+               <hi>Shepherd</hi> having ſhewed what Number of Perſons, and what kind of un<g ref="char:EOLhyphen"/>lawful Act can make a Riot, ſays, <q>a <hi>Riot</hi> is, where they do not only begin, and go on, but-<hi>finiſh</hi> their work, or with unlawful Weapons <hi>do</hi> ſuch an un<g ref="char:EOLhyphen"/>lawful act, </q>
+               <bibl>Grand Abridgment Part 3. p. 259.</bibl>
+            </p>
+            <p>From all which it is evident, that for any number of Perſons <hi>barely to aſſem<g ref="char:EOLhyphen"/>ble</hi> themſelves together (though it were with a Riotous intention) is <hi>no Riot,</hi> un<g ref="char:EOLhyphen"/>leſs the ſame perſons being ſo aſſembled, do commit ſome ſuch unlawful Act as in conſtruction of Law will amount to a Riot, (and of what kind that muſt be, ſhall be our next Inquiry.) So that, if in a peaceable manner to preach or pray could legally be interpreted a Riotous act: yet thoſe Meetings which are wholly ſilent, wherein there is <hi>nothing ſaid, nothing done;</hi> or wherein (which is much alike) no proof can be made of any thing ſaid or done (and ſuch, it
+<pb n="5" facs="tcp:153190:3" rendition="simple:additions"/>
+ſeems, was that Meeting, which gave occaſion to this diſcourſe) ſuch Meetings to be ſure <hi>cannot be Riots.</hi>
+            </p>
+            <p n="3">3. A third thing is, that the act or deed done muſt be <hi>not only unlawful,</hi> but <hi>injurious to another.</hi> This appears by the Examples given by the moſt Eminent Lawyers that have written of this Subject.</p>
+            <p>Judge <hi>Coke</hi> ſays, <q>A Riot in the Common Law ſignifieth, when three or more do any unlawful act:</q> then to explain what he means here by an <hi>unlawful act,</hi> he immediately adds, <q>As to beat any man, or to hunt in his Park, Chaſe or War<g ref="char:EOLhyphen"/>ren, or to enter or take poſſeſſion of another Man's Land, or to cut or deſtroy his Corn; Graſs or other profit.</q>
+               <bibl> Inſtit. 3. p. c. 79. Tit. Riots.</bibl>
+            </p>
+            <p>
+               <hi>Shepherd,</hi> having ſhewed what number of perſons muſt be preſent to make a Riot, adds, <q>A ſecond thing that <hi>muſt</hi> be in the Caſe to make up <hi>any de<g ref="char:EOLhyphen"/>gree</hi> in theſe Offences <hi>muſt</hi> be, that the Aſſembly they go with, or their intent and deſign muſt be evil, to do ſome hurt to Men or that which is theirs:</q> then in<g ref="char:EOLhyphen"/>ſtances thus, <q>As breach of Incloſures, or Banks, or Conducts, Parks, Pounds, Houſes, Barns, the burning of ſtacks of Corn, or the like; or to enter into Lands, to beat others, or to carry away their Wives, or the like.</q>
+               <bibl> Grand Abridge. 3. part p. 259 Tit. Riots.</bibl>
+            </p>
+            <p>
+               <hi>Fitz-herbert</hi> explains the unlawful act which makes a Riot, by theſe Exam<g ref="char:EOLhyphen"/>ples, <hi>viz. To beat or to maim another,</hi> Fitz-h. Office of Juſt. of Peace, p. 53.</p>
+            <p>
+               <hi>Lambard</hi> uſes theſe Examples <hi>viz. To beat a Man, or to enter upon a Poſſeſſion forcibly.</hi> Eirenarcha, lib. 2. c. 5. <hi>The ſame</hi> are in the Book called Les Terms de la ley. Tit. Riot. p. 244.</p>
+            <p>
+               <hi>Pulton</hi> ſays, <q>A Riot is where three Perſons or more do aſſemble themſelves to<g ref="char:EOLhyphen"/>gether, to the intent to <hi>beat</hi> or <hi>maim</hi> a Man, to <hi>put down</hi> a houſe, wall, pale, hedge, or ditch; wrongfully to claim or take Common or way in a ground, to <hi>deſtroy</hi> any Park, Warren, Dovehouſe, Pond, Pool, Barn, Mill, or ſtack of Corn; or to do any other unlawful act, with force and violence, and againſt the Peace, and they do it.</q>
+               <bibl> Pult. de Pace Regis, fol. 25.</bibl>
+            </p>
+            <p>
+               <hi>Meriton</hi> ſays, <q>Where three Perſons or more ſhall come or aſſemble themſelves together, to the intent to do any unlawful act, with force or violence, againſt the Perſon of another his Poſſeſſions or Goods <hi>(then he inſtances particulars)</hi> As to <hi>kill, beat,</hi> or otherwiſe to <hi>hurt,</hi> or to <hi>impriſon</hi> a Man; to <hi>pull down</hi> an Houſe, Wall, Pale, Hedge, or Ditch; Wrongfully to enter upon or into another Man's Poſſeſſion, Houſe or Lands, <hi>&amp;c.</hi> Or to cut, or take away Corn, Graſs, Wood, or other Goods wrongfully; or to hunt unlawfully in any Park or Warren, or to do any other unlawfull act, (with force or violence) againſt the peace, or to the manifeſt terror of the People, — if they do any <hi>ſuch</hi> thing in deed, then it is a Riot.</q>
+               <bibl> Guide for Conſtables, p. 92. 93. </bibl>For this he cites divers Authors, particularly <hi>Dalton,</hi> who gives the ſelf-ſame Examples of an Unlawful Rio<g ref="char:EOLhyphen"/>tous act, and out of whom he ſeems to have tranſcribed this verbatim. So that I need not repeat what <hi>Dalton</hi> there ſays; but ſhall only obſerve out of him,
+<pb n="6" facs="tcp:153190:4"/>
+that one of the Reaſons he gives, why, <hi>If divers do aſſemble and gather toge<g ref="char:EOLhyphen"/>ther to play at certain unlawful Games and Sports</hi> (which he mentions) <hi>it is no Riot,</hi> is, becauſe <hi>Theſe Meetings</hi> (ſays he) <hi>uſually are not with any intent to of<g ref="char:EOLhyphen"/>fer or do violence or hurt to the Perſon, Poſſeſſions or goods of any other.</hi> Dalt. Coun<g ref="char:EOLhyphen"/>try Juſt. c. 85. Tit. Riots.</p>
+            <p>By all theſe Inſtances it is evident, that thoſe <hi>unlawfull acts</hi> which the Com<g ref="char:EOLhyphen"/>mon Law takes notice of as <hi>Riots,</hi> are ſuch as are ſome way or other <hi>injurious</hi> and <hi>hurtful</hi> to the <hi>Perſons</hi> or <hi>Poſſeſſions</hi> of others: But quiet and peaceable Meetings, for the worſhip of God only, are <hi>no ways injurious</hi> or hurtful to the Perſons or Poſſeſſions of any. So that it is <hi>not every</hi> unlawful Meeting, or Aſſembly of People forbidden by the Law, that will amount unto a Riot. Tis true indeed, every Riot is an unlawful aſſembly; but (the Terms are not convertible) <hi>every unlawfull Aſſembly is not a Riot.</hi> Dalton ſays, <hi>The manner of doing an unlawful act by an Aſſembly of People, may be ſuch (and ſo handled) as that it ſhall not be puniſhed as a Riot.</hi> Country Juſt c. 86. p. 221. And both <hi>Lumbard</hi> and <hi>Keeble,</hi> from <hi>Marrow,</hi> aſſure us, that <hi>an unlawful thing may be ſo done, as that it cannot be made a Riot.</hi> Eirenarcha, l. 2. c. 5. aſſiſtance to Juſt. p. 645. And ſo ſays <hi>Shepherd</hi> alſo, Grand Abridgment 3. part. p. 260.</p>
+            <p>And to manifeſt yet further, that by an <hi>unlawful</hi> act in a Riotous ſenſe, the Law Books intend ſuch an act as is <hi>injurious</hi> or hurtful to the perſon or poſ<g ref="char:EOLhyphen"/>ſeſſions of another, they tell us that, unlawful act which makes a Riot, muſt be <hi>Malum in ſe, Evil in it ſelf</hi> and of its own nature. This <hi>Dalton</hi> implies, when he ſays that <hi>to play at Foot-ball, Bucklers, Bear-baitings, Dancings, Bowls, Cards, or Dice, or ſuch like Games or diſports</hi> (which he confeſſes are unlawful) <hi>is no Riot,</hi> becauſe <hi>they are not Evil in themſelves.</hi> Country Juſt. c. 85. But in the laſt Edition of <hi>Dalton,</hi> (printed laſt year, with many conſiderable Additions by another hand) it is ſaid expreſly, <q>an unlawful aſſembly, Riot, or Rout, is where three or more ſhall gather together, come or meet in one place, to do ſome unlawful act with violence, and <hi>that unlawfull act <hi>muſt</hi> be Malum in ſe,</hi> that is, Evil in it ſelf) <hi>and not Malum prohibitum</hi> (not evil forbidden, only.)</q>
+               <bibl> See the new Edition of <hi>Dalton's</hi> Country Juſtice, c. 136.</bibl> Now if (according to theſe) that unlawful act which makes a Riot muſt be <hi>evil in it ſelf;</hi> or injurious, then ſurely <hi>it can<g ref="char:EOLhyphen"/>not poſſibly</hi> be a Riot for people to aſſemble peaceably and quietly together to worſhip God: for certainly no man can harbour a thought, that it is <hi>evil in it ſelf</hi> for Men and Women to worſhip God, or to aſſemble together, in a peace<g ref="char:EOLhyphen"/>able manner, for that end. And it is manifeſt that the ſtatute of the 22 <hi>Car.</hi> 2. (commonly called the Conventicle act) which prohibits thoſe Meetings to greater Numbers, doth not take thoſe Meetings to be <hi>evil in themſelves,</hi> be<g ref="char:EOLhyphen"/>cauſe it permits them to leſſer Numbers.</p>
+            <p n="4">4. A fourth thing <hi>eſſential to a Riot</hi> is <hi>force</hi> or <hi>violence.</hi> So all agree.</p>
+            <p>
+               <hi>Cowel</hi> ſays, It ſignifies in our Common Law, the <hi>forcible</hi> doing of an un<g ref="char:EOLhyphen"/>lawful
+<pb n="7" facs="tcp:153190:4"/>
+act, <hi>&amp;c.</hi> Cowels Interpreter, verbo Riot.</p>
+            <p>
+               <hi>Weſt</hi> ſays, A Riot is the <hi>forcible</hi> doing of an unlawful act, <hi>&amp;c.</hi> Symbol. 2. part Tit. Indictments.</p>
+            <p>
+               <hi>R. Blunt</hi> ſays, Riots ſignifies in our Common Law, the <hi>forcible</hi> doing of an unlawful act, <hi>&amp;c.</hi> Gloſſograph. verbo Riot.</p>
+            <p>
+               <hi>Tho. Blunt</hi> ſays, Riot ſignifies the <hi>forcible</hi> doing an unlawful act, <hi>&amp;c.</hi> Law-Dictionary, verbo Riot.</p>
+            <p>
+               <hi>Keeble</hi> ſays, A Riot is thought to be where three or more perſons be diſor<g ref="char:EOLhyphen"/>derly aſſembled to commit <hi>with force</hi> any ſuch unlawful act, <hi>&amp;c.</hi> Aſſiſt to Juſt. p. 645.</p>
+            <p>
+               <hi>Lambard</hi> not only defines a Riot to be, where three or more perſons be diſ<g ref="char:EOLhyphen"/>orderly aſſembled to commit <hi>with force,</hi> any ſuch unlawful act: but at his entrance upon the Diſcourſe of Riots, having premiſed that many Contenti<g ref="char:EOLhyphen"/>ons may be without any apparent ſhew of Aſſembly againſt the Peace; <hi>I will leave them,</hi> ſays he, <hi>and reſort to thoſe <hi>other</hi> that the Commiſſion ſaith to be done <hi>vi armata;</hi>
+               </hi> and thereupon he proceeds to deſcribe Riots, Routs, <hi>&amp;c.</hi> So that it is plain he lookt upon that act which could make a Riot, to be an act done <hi>vi armata,</hi> with <hi>armed force,</hi> or, as the Phraſe is, <hi>with force and Arms.</hi> And therefore, treating of what one Juſtice may do in the Caſe or a Riot, he ſays, <hi>He alone (or with his Servant) may go to the place, and ſuch as he findeth Riotouſly aſſembled and <hi>Armed,</hi> he may arreſt, — and may take their <hi>Weapons</hi> from them.</hi> Eirenarcha, l. 2. c. 5. Tit. Riots. Which implies that they muſt be <hi>Armed,</hi> they muſt have <hi>Weapons,</hi> that commit a Riot.</p>
+            <p>But <hi>Shepherd</hi> ſpeaks full and plain: For deſcribing an unlawful aſſembly, Rout and Riot, he ſays, <q>Rout is, where being thus met they move, <hi>being weaponed,</hi> from the place of their Meeting towards the place where they pro<g ref="char:EOLhyphen"/>poſe to do this act, in a <hi>turbulent</hi> way to effect it, <hi>&amp;c.</hi> But a Riot, he ſays, is where they not only begin and go on, but with <hi>
+                     <g ref="char:V">Ʋ</g>nlawful Weapons</hi> finiſh or do ſuch an unlawful act.</q>
+               <bibl> Grand Abridgment 3. part. p. 259.</bibl>
+            </p>
+            <p>
+               <hi>Dalton</hi> ſays expreſly, <hi>It ſeemeth it <hi>can be no Riot,</hi> except there be an intent precedent to do ſome unlawful Act, and <hi>with Violence</hi> or <hi>Force,</hi>
+               </hi> Count. Juſt. ch. 85. Thus all concur, that that Act which makes, or can be made a Riot, muſt be a <hi>forcible Act,</hi> or an Act done <hi>with force.</hi> So that <hi>No Force, No Riot.</hi> And therefore, ſeeing our peaceable, quiet, Religious Meetings are <hi>wholly free from force and violence,</hi> it follows that they are alſo <hi>free from Riot.</hi>
+            </p>
+            <p>Now that none may err through Miſapprehenſion that the words [<hi>vi arma<g ref="char:EOLhyphen"/>ta,</hi> or <hi>with force and Arms</hi>] are words of <hi>Form</hi> only, and not <hi>material</hi> and <hi>eſ<g ref="char:EOLhyphen"/>ſential</hi> to a Riot; let me add what <hi>Lambard</hi> ſaith thereupon. <q>Even as the <hi>Civilians</hi> do handle two ſorts of <hi>Force:</hi> of which they call the one <hi>vim,</hi> and <hi>vim ſimplicem, privatam, ſive quotidianum;</hi> and the other <hi>vim armatam, atro<g ref="char:EOLhyphen"/>cem, &amp; publicam,</hi> becauſe the firſt is void of any fearful outrage, and the lat<g ref="char:EOLhyphen"/>ter ſeemeth to kindle the Coals of Sedition it ſelf: So likewiſe, ſaies he, our
+<pb n="8" facs="tcp:153190:5"/>
+Law taketh knowledge of two manners of <hi>Force:</hi> whereof the one is rather in<g ref="char:EOLhyphen"/>tellectual than actual, and may therefore be termed, <hi>A Force in the Conſidera<g ref="char:EOLhyphen"/>tion of Law,</hi> which accounteth all that to be <hi>vis,</hi> which is contrary to <hi>Jus.</hi> But the other is <hi>apparent</hi> by the Act it ſelf, which always carrieth ſome <hi>fearful Shew,</hi> and matter of <hi>Terror</hi> (or trouble) with it.</q>
+               <bibl> 
+                  <hi>Eirenar.</hi> l. 2. c. 4. p. 140.</bibl> And therefore (l. 2. c. 5. p. 174.) he explains <hi>[vis armata]</hi> to be that, which doth <hi>bring manifeſt Terror unto the Subject.</hi> And as he makes that which he calls an in<g ref="char:EOLhyphen"/>tellectual force, or a force in the conſideration of Law, to relate to Suits and Actions at Law for Treſpaſſes, <hi>&amp;c.</hi> So (in his firſt Book, c. 2. p. 7.) he declares, It is <hi>no part</hi> of the Juſtices Office to forbid lawful Suits and Controverſies, but to ſuppreſs <hi>injurious force and violence moved againſt the Perſon, his Goods or poſſeſſions.</hi> And in p. 10. he ſaies, <q>I conclude that this <hi>furious Geſture</hi> and <hi>beaſtly force of body or hands</hi> (and not every Contention, Suit and diſagreement of minds) <hi>is the proper ſubject and matter about which the Office of the Juſtices of the Peace is to be exerciſed.</hi>
+               </q> Now ſince a Riot is the proper ſubject and matter about which the Office of Juſtices of the Peace is to be exerciſed, it follows that that <hi>vis arma<g ref="char:EOLhyphen"/>ta, that</hi> force and Arms, which is of neceſſity to the making of a Riot, muſt needs be <hi>this furious Geſture,</hi> this <hi>beaſtly</hi> force of <hi>body</hi> and <hi>hands</hi> (as <hi>Lambard</hi> calls it) which brings <hi>terror to the people,</hi> and which <hi>our Meetings are free from. Dalton</hi> alſo, undertaking to ſhew what the Law accounteth to be <hi>force,</hi> and what <hi>weapons</hi> be offenſive in theſe and the like caſes, ſays, <q>To have Harneſs, Guns, Bows and Arrows, Croſs-bows, Halberts, Javelins, Bills, Clubs, Pikes, Pitchforks, or Swords not uſually born by the Parties, ſhall be ſaid to be <hi>vis armata.</hi> And ſo to uſe caſting of Stones, hot Coals, ſcalding Water or Lead, or be ſaid to be <hi>vis armata;</hi> 
+               </q>
+               <bibl>
+                  <hi>Country Juſt.</hi> c. 77. p. 203.</bibl>
+            </p>
+            <p n="5">5. A Fifth thing is the <hi>previous Intent</hi> of the Perſons aſſembled. Both <hi>Lam<g ref="char:EOLhyphen"/>bard</hi> and <hi>Keeble</hi> tell us, <hi>The intention and purpoſe of thoſe that be aſſembled is wor<g ref="char:EOLhyphen"/>thy the weighing.</hi> And they inſtance ſome Caſes of perſons that being met at an Ale-houſe, a Chriſtmas-Dinner, or a Church Ale, fell together by the Ears and fought, yet this was no Riot (but a ſudden Affray only) becauſe <hi>they did not come thither with intention to fight;</hi> Eiren. l. 2. c. 5. Aſſiſt. to Juſt. Tit. Riots.</p>
+            <p>
+               <hi>Shepherd</hi> ſays, <q>If many come together <hi>unarmed,</hi> they know not why them<g ref="char:EOLhyphen"/>ſelves; this is no offence puniſhable, unleſs it can be known, that they came to ſome <hi>Evil Intent,</hi> or that they do <hi>miſcarry themſelves</hi> in ſome <hi>Evil Act.</hi>
+               </q> Now, ſince we come together <hi>unarmed,</hi> not to any <hi>Evil Intent,</hi> but to a <hi>very good</hi> Intent, namely, to ſerve and worſhip the true God, in a peaceable man<g ref="char:EOLhyphen"/>ner, and do <hi>not miſcarry</hi> our ſelves in any <hi>Evil Act</hi> in our Meeting: Surely (if <hi>Shepherd</hi> might be Judge) <hi>Our Meetings are not Riots.</hi>
+            </p>
+            <p>
+               <hi>Dalton</hi> ſpeaks home; <hi>It ſeemeth,</hi> ſays he, <hi>it can be no Riot, <hi>except there be an</hi> intent precedent <hi>to do ſome unlawful Act, and with violence or force;</hi>
+               </hi> Count. Juſt. ch. 85. Now the intent of our Meetings being <hi>only</hi> to ſerve and worſhip God, and that <hi>not</hi> with violence or force, but in peace and quietneſs, it ſeemeth ſuch Meetings <hi>cannot be Riots.</hi>
+            </p>
+            <p n="6">
+               <pb n="9" facs="tcp:153190:5"/>6. A Sixth thing <hi>eſſential to a Riot</hi> is, <hi>Breach of the Peace.</hi> The Peace <hi>muſt</hi> be broken, or it is <hi>no Riot.</hi> In this all agree. And leſt any doubt ſhould ariſe what is intended by, or what will amount to a Breach of the Peace in this Caſe, the Law-Books well explain it.</p>
+            <p>
+               <hi>Lambard</hi> ſays, <q>Two ſpecial things there are, that be common and <hi>muſt concur,</hi> both in the unlawful Aſſembly, Rout and Riot; the one that three perſons (at the leaſt) be gathered together: —the other, that they being together, do breed ſome <hi>apparent diſturbance</hi> of the Peace, either by ſignifica<g ref="char:EOLhyphen"/>tion of <hi>Speech, Shew</hi> of <hi>Armor, turbulent Geſture,</hi> or <hi>actual</hi> and <hi>expreſs vio<g ref="char:EOLhyphen"/>lence:</hi> ſo that either the peaceable ſort of men be <hi>unquieted</hi> and <hi>feared</hi> by the fact, or the lighter ſort and buſie-bodies be imboldened by the Example; </q>
+               <bibl>
+                  <hi>Eiren.</hi> l. 2. ch. 5.</bibl>
+            </p>
+            <p>
+               <hi>Cowell,</hi> following him, ſays, <q>Two things are common both to Riot, Rout and unlawful Aſſembly; the one, that three perſons at the leaſt be gathered together: the other, <hi>that they being together do breed diſturbance of the Peace;</hi> (How?) either by ſignification of <hi>Speech,</hi> ſhew of <hi>Armour, Turbulent Geſture,</hi> or <hi>actual</hi> and <hi>expreſs violence;</hi> 
+               </q>
+               <bibl>Coweli <hi>Interp. verbo Riot.</hi>
+               </bibl>
+            </p>
+            <p>
+               <hi>Shephard</hi> ſays, <q>Theſe two things are <hi>common</hi> both to the Riot, and the Rout, and unlawful Aſſembly. There <hi>muſt</hi> be three perſons at the leaſt gathered together in it: the other, that <hi>being together, they do breed diſturbance of the Peace,</hi> either by ſignification of <hi>Speech,</hi> ſhew of <hi>Armour, Turbulent Geſture,</hi> or actual and expreſs <hi>violence,</hi> &amp;c.</q>
+               <bibl> 
+                  <hi>Grand Abridgment,</hi> part 3. p. 259.</bibl>
+            </p>
+            <p>
+               <hi>Dalton</hi> ſays, <q>As there muſt neceſſarily be three perſons at the leaſt, aſſem<g ref="char:EOLhyphen"/>bled together, to make a Riot, <hi>&amp;c.</hi> So their being together and <hi>their demeanour <hi>muſt</hi> be ſuch,</hi> as ſhall or may breed ſome <hi>apparent diſturbance</hi> of the <hi>Peace;</hi> either by <hi>threatning</hi> Speeches, <hi>Turbulent Geſture,</hi> ſhew of <hi>armour,</hi> or <hi>actual</hi> force or violence (to the <hi>terror</hi> and <hi>fearing</hi> of the peaceable ſort of People, or to the emboldening and ſtirring up of ſuch as are buſy-headed, and of evil diſpoſition, by ſuch fact) <hi>or elſe it can be no Riot, </hi>&amp;c.</q>
+               <bibl> 
+                  <hi>Country Juſt.</hi> c. 87.</bibl>
+            </p>
+            <p>
+               <hi>Tho. Blunt</hi> ſays, <q>Two things are <hi>common</hi> both to rout, riot and unlawful Aſſembly; The one, that three perſons at leaſt be gathered together: The other, that they being together, <hi>do diſturb the Peace,</hi> either by <hi>words,</hi> ſhow of <hi>Arms, Turbulent Geſture,</hi> or <hi>actual violence;</hi>
+               </q>
+               <bibl> Law-Diction. verbo Rout.</bibl>
+            </p>
+            <p>
+               <hi>Keeble</hi> ſays, <q>Two <hi>ſpecial things</hi> there are that be common, and <hi>muſt con<g ref="char:EOLhyphen"/>cur</hi> both in the unlawful Aſſembly, Rout and Riot. 1. That three perſons at the leaſt be gathered together; —2. That <hi>their being together do breed ſome apparent diſturbance of the Peace,</hi> either by ſignification of <hi>Speech,</hi> ſhew of <hi>Armour, Turbulent Geſture,</hi> or <hi>actual</hi> and <hi>expreſs violence.</hi> So that either the peaceable ſort of men be <hi>unquieted</hi> and <hi>feared</hi> by the Fact, or the lighter ſort and buſie-bodies be imboldened by the Example;</q>
+               <bibl> 
+                  <hi>Aſſiſt. to Juſt. p.</hi> 645.</bibl> And ſays he, <hi>p.</hi> 646. (And ſo ſays <hi>Lambard</hi> alſo, <hi>Eien.</hi> l. 2. c. 5.) <hi>If many do
+<pb n="10" facs="tcp:153190:6"/>
+meet to play at Bowls, Tables, or Cards</hi> (which yet are unlawful Games for<g ref="char:EOLhyphen"/>bidden by the Statute of 33 <hi>H.</hi> 8. 9.) <hi>and do uſe no misbehaviour againſt the Peace, they are not puniſhable in this degree.</hi> How much <hi>leſs</hi> then are they puniſhable in this degree, (<hi>viz.</hi> of Riot) who meet together for a good and <hi>godly end</hi> only, to worſhip God, and <hi>uſe no misbehaviour againſt the Peace!</hi>
+            </p>
+            <p>By all theſe Teſtimonies it appears, both that to the making of a Riot there muſt of neceſſity be a <hi>breach of the Peace;</hi> and alſo wherein that Breach of the Peace conſiſts, namely, in <hi>threatning Speeches, ſhew</hi> of <hi>Armour, turbu<g ref="char:EOLhyphen"/>lent Geſture,</hi> or <hi>actual violence.</hi> And that this is indeed the true and proper meaning of the words <hi>[Breach of the Peace,]</hi> might be further confirmed by other Evidences, out of <hi>Lambard</hi>'s Eiren. l. 1. c. 2. and l. 2. c. 3. But moſt plainly out of <hi>Dalton,</hi> who having defined Peace (in a legal ſenſe) to be <hi>An Abſtinence from actual and injurious force and offer of violence,</hi> ſays, <hi>The breach of this Peace ſeemeth to be any injurious force or violence moved againſt the perſon of another, his Goods, Lands, or other poſſeſſions, whether it be by threatning words, or by furious Geſture, or force of the body, or any other force uſed in</hi> terro<g ref="char:EOLhyphen"/>rem; <hi>Count. Juſt. c.</hi> 3. But well known it is to all, that know our Meetings, that <hi>no</hi> injurious force or violence is moved by us <hi>in our Meetings</hi> againſt the Perſon, Goods, Lands, or Poſſeſſions of any: So that <hi>the peace is not broken by us</hi> in our Meetings, and conſequently <hi>our Meetings are not Riots.</hi>
+            </p>
+            <p n="7">7. The Seventh and laſt thing <hi>eſſential</hi> to a Riot is, <hi>Terrour to the people;</hi> that is, That the thing done be either of it ſelf, and in its own nature ſo <hi>dreadful,</hi> or performed in ſuch a <hi>formidable</hi> and <hi>affrighting</hi> manner, that the People are thereby <hi>ſtruck with terrour.</hi>
+            </p>
+            <p>
+               <hi>Lambard,</hi> proceeding to ſpeak particularly of Riots, Routs, <hi>&amp;c.</hi> ſays, <q>I will leave thoſe contentions which may be without any apparent ſhew of Aſſembly againſt the Peace, and reſort to thoſe <hi>other</hi> that the Commiſſion ſaith to be done <hi>vi armata,</hi> and <hi>that to bring <hi>manifeſt Terrour</hi> unto the ſub<g ref="char:EOLhyphen"/>ject.</hi>
+               </q> And a little after, he mentions the uſe of Harneſs on <hi>Mid ſummer-night</hi> in <hi>London,</hi> or on <hi>May-day</hi> in the Country, <q>Which (being for ſport only) is, ſays he, '<hi>no ſuch offence</hi> (that is, no Riot) <hi>ſeeing no Terrour followeth of it: And,</hi> ſays he, <hi>the words <hi>In terrorem populi</hi> ſeem to be <hi>material</hi> in an In<g ref="char:EOLhyphen"/>dictment of this kind;</hi>
+               </q>
+               <bibl> Eiren. l. 2. c. 5.</bibl>
+            </p>
+            <p>
+               <hi>Dalton</hi> ſays, <q>An Aſſembly of an hundred perſons or more (yea though they be in Armour) yet <hi>if it be not</hi> in terrorem populi, and were aſſembled <hi>without any intent to break the peace,</hi> it is <hi>not prohibited</hi> by any of theſe Sta<g ref="char:EOLhyphen"/>tutes (<hi>viz.</hi> which were made againſt Riots, <hi>&amp;c.) nor unlawful.</hi>
+               </q> And he gives the ſame inſtance <hi>Lambard</hi> gave of the Aſſembly of People, and their uſe of Harneſs upon <hi>Midſummer-night</hi> in <hi>London,</hi> 
+               <q>Which (ſays he) being only for diſport, is lawful; and though it be with a great Aſſembly of People and in <hi>Armour,</hi> yet it being <hi>neither</hi> in terrorem populi, <hi>nor to do any Act with force and violence againſt the peace,</hi> it is lawful, ſaith <hi>Dalton,</hi> Count. Juſt.
+<pb n="11" facs="tcp:153190:6"/>
+c. 85.</q> And he ſhews further, (ch. 87.) <q>That if divers in a Company ſhall go, on a lawful occaſion, armed and in harneſs, <hi>to the terror of the people,</hi> though they have no intent to fight, or to commit a Riot, yet <hi>this is a Rout</hi> by the manner of their going. But on the other hand, if they had gone in privy Coats of Plate, Shirts of Mail, or the like, to the intent to defend themſelves from ſame <hi>Adverſary, This</hi> (ſays he) <hi>ſeems not puniſhable within theſe Statutes;</hi> and the Reaſon he gives is, For <hi>that there is nothing openly done</hi> in Terrorem populi, <hi>to the terror of the people.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Keeble</hi> (treating of Riots, and reciting the words of <hi>Lambard,</hi> though he cites <hi>Crompton</hi> for the Author) ſays, <q>To uſe Horns on Mid-ſummer Night in <hi>London,</hi> or on <hi>May day</hi> in the Country, for ſport only, <hi>is no ſuch offence</hi> (that is, is no Riot) <hi>ſeeing no terror followeth it; and the words</hi> [in Terrorem po<g ref="char:EOLhyphen"/>puli] <hi>ſeem,</hi> ſays he, <hi>to be material in an Indictment of this kind.</hi>
+               </q>
+               <bibl> Aſſiſt. to Juſt. p. 646.</bibl> With <hi>Keeble's</hi> Judgment I chuſe to cloſe this point, both as he is the laſt (ſo far as I know) that hath written on this Subject, and for that his Book hath the Approbation of all the twelve Judges.</p>
+            <p>Many other Authors I could have quoted on this Subject, &amp; ſome too of great Name, as <hi>Marrow, Kitchin, Brook, Crompton,</hi> &amp;c. whom I find cited by others to this purpoſe; but not having read theſe Authors my ſelf, I forbear uſeing them, that I might not rely on any authority taken up at ſecond hand.</p>
+            <p>Thus having gone through the ſeveral Parts of a Riot, according to the Diſtribution premiſed, I take a Riot, in ſhort, to be this. When <hi>three</hi> per<g ref="char:EOLhyphen"/>ſons, or more, <hi>are aſſembled together</hi> in Arms, with a <hi>fore-intent</hi> and pur<g ref="char:EOLhyphen"/>poſe to do ſuch an <hi>unlawful act,</hi> as is both <hi>evil in it ſelf,</hi> and <hi>hurtful to another,</hi> either in perſon, or eſtate; and <hi>do it,</hi> in a <hi>forcible</hi> manner, to the <hi>apparent Breach</hi> or <hi>diſturbance</hi> of the <hi>Peace,</hi> either by <hi>threatning words, ſhew</hi> of <hi>Armour, turbulent Geſture,</hi> or <hi>open violence,</hi> and to the <hi>manifeſt terrour of the People.</hi>
+            </p>
+            <p n="4">4. Now becauſe (according to the Rule, <hi>Contraria juxta ſe poſita magis elu<g ref="char:EOLhyphen"/>ceſcunt,</hi> i. e.) when Contraries are ſet one by another, their Contrarieties do the more manifeſtly appear, I will briefly ſet forth the Contrarietys between Riots and peaceable Religious Meetings, by oppoſing our Meetings to Riots, through the ſeveral Particulars before mentioned.</p>
+            <p>And firſt as to <hi>number of Perſons.</hi> In a Riot (if the fact be ſuch as the Law accounts Riotous) any number of Perſons <hi>above two</hi> is ſufficient to commit a Riot.</p>
+            <p>But in thoſe Meetings for the exerciſe of Religion which are forbidden by the Conventicle-act, it is not unlawful even by that act for <hi>four perſons beſide the Family</hi> (how numerous ſoever that be) to aſſemble together. So that even in point of Numbers there is a <hi>material difference</hi> between Riots and Religious Meetings: which ſhews, the Parliament that gave liberty to <hi>four perſons</hi> be<g ref="char:EOLhyphen"/>ſides the family to meet, did not underſtand thoſe Meetings to be Riots. The Conventicle-act doth not permit Riots: But the Conventicle-act doth permit
+<pb n="12" facs="tcp:153190:7"/>
+Religious Meetings to ſuch Numbers as (if thoſe Meetings were of a Riotous na<g ref="char:EOLhyphen"/>ture) are ſufficient to make a Riot; Therefore <hi>ſuch Meetings are not Riots.</hi>
+            </p>
+            <p n="2">2. In a Riot there muſt of neceſſity be ſome <hi>overt act,</hi> ſome <hi>deed done,</hi> ſome <hi>fact committed</hi> by the perſons aſſembled (which may come under the Cogni<g ref="char:EOLhyphen"/>zance of outward evidence) more than their <hi>bare aſſembling</hi> together, elſe <hi>it cannot be a Riot.</hi>
+            </p>
+            <p>But (as in none of our Meetings there is any Riotous act, ſo) in ſuch of our Meetings as are wholly ſilent there is <hi>no</hi> overt act at all, <hi>no</hi> deed done, <hi>no</hi> fact committed by any of the perſons aſſembled (which may come under the cog<g ref="char:EOLhyphen"/>nizance of outward evidence) more than their <hi>bare aſſembling:</hi> therefore <hi>ſuch Meetings cannot be Riots.</hi>
+            </p>
+            <p n="3">3. In Riots, the fact done muſt be <hi>not only</hi> unlawful, but <hi>injurious</hi> or <hi>hurtful</hi> to another, either in <hi>perſon</hi> or <hi>eſtate.</hi>
+            </p>
+            <p>But our Meetings (if at all unlawful) are <hi>no way injurious</hi> or <hi>hurtful</hi> to any, either in <hi>perſon</hi> or <hi>eſtate:</hi> therefore <hi>our Meetings are not Riots.</hi>
+            </p>
+            <p n="4">4. That act which makes a Riot muſt be done <hi>vi armata,</hi> with <hi>force</hi> and <hi>arms,</hi> or in a <hi>forcible</hi> manner.</p>
+            <p>But our Meetings are <hi>not held,</hi> nor is there any thing done by us in them, <hi>vi armata,</hi> with <hi>force</hi> and <hi>arms,</hi> or in a <hi>forcible</hi> manner: therefore <hi>our Meet<g ref="char:EOLhyphen"/>ings are not Riots.</hi>
+            </p>
+            <p n="5">5. To make a Riot, there muſt be a <hi>previous intent</hi> in the perſons aſſembled, to do ſome ſuch unlawful act as is evil in it ſelf and hurtful to others, and that with force.</p>
+            <p>But in our Meetings, we have <hi>no previous intent</hi> to do any ſuch unlawful act, as is evil in it ſelf and hurtful to others; nor have we any other intent at all, than ſincerely and really to ſerve and worſhip God, and that without force or violence: therefore <hi>our Meetings are not Riots.</hi>
+            </p>
+            <p n="6">6. It is not a Riot, unleſs the <hi>Peace be broken</hi> or diſturbed by the perſons aſſem<g ref="char:EOLhyphen"/>bled, either by <hi>threatning ſpeeches,</hi> ſhew of <hi>armour, turbulent Geſture,</hi> or <hi>open violence.</hi>
+            </p>
+            <p>But in our Meetings, the <hi>Peace is never broken</hi> nor diſtrubed <hi>by us,</hi> we give <hi>no threatning Speeches;</hi> we ſhew <hi>no armour</hi> (nor have any to ſhew) we uſe <hi>no Turbulent Geſtures; nor</hi> do we <hi>offer violence</hi> to any: therefore <hi>our Meetings are not Riots.</hi>
+            </p>
+            <p n="7">7. It is not a Riot, except it be done with <hi>Terrour to the People.</hi> But our Meet<g ref="char:EOLhyphen"/>ings are <hi>not held with Terrour to the people:</hi> therefore <hi>our Meetings are not Riots.</hi>
+            </p>
+            <p>How truely I have ſtated the Caſe, on the one hand, with reſpect to Riots, the many Quotations in the fore-going Diſcourſe will ſhew. How true an ac<g ref="char:EOLhyphen"/>count, on the other hand, I have given of our Meetings, the whole Nation (and all Nations wherein we have Meetings) may judge. Upon the whole, my requeſt is, that all, both Juſtices and Jurors, who are or ſhall be concerned in this or the like Caſe, will ſeriouſly weigh the matter, and not <hi>ſtrain</hi> the Law
+<pb n="13" facs="tcp:153190:7"/>
+beyond its due Extent. <hi>To oppreſs any by colour of Law, is the greateſt abuſe of Law.</hi> I intreat Grand Juries therefore to <hi>regard Juſtice, to regard their Oath.</hi> They are ſworn expreſly to <hi>Examin diligently, and true preſentment make,</hi> &amp;c. They are ſworn expreſly, to <hi>preſent the Truth, the whole Truth, and <hi>nothing but</hi> the Truth, to the <hi>beſt</hi> of their knowledge.</hi> Now that they may not break their Oath, but that they may <hi>true</hi> Preſentment make, that they may pre<g ref="char:EOLhyphen"/>ſent <hi>nothing but</hi> the Truth, that they may not preſent a <hi>Falſhood</hi> for <hi>Truth,</hi> I intreat them again and again to <hi>examine diligently</hi> both what Riots are, and what our Meetings are. And if upon ſuch <hi>diligent Examination</hi> they find any of thoſe <hi>material</hi> and <hi>eſſential Differences</hi> between our Meetings and Riots (which I have before obſerved) that then they will, like juſt Men and Chriſtians, keep themſelves cleer from making <hi>falſe</hi> Preſentments inſtead of <hi>True,</hi> from writing <hi>Billa vera</hi> (a <hi>true</hi> bill) upon that Bill (and delivering it in as ſuch up<g ref="char:EOLhyphen"/>on their Oaths (which perhaps in three parts of four is utterly and apparently <hi>falſe,</hi> The like requeſt I make to Petit Juries in the like caſe, who are ſworn <hi>Well and truly to try, and true deliverance make,</hi> &amp;c. <hi>according to their Evidence.</hi> Which evidence ought to be of <hi>good fame:</hi> for it's a Maxim, <hi>Juſtitia non poteſt cum Scelerato Commercium habere;</hi> Juſtice can have no Commerce with a wicked graceleſs perſon: And <hi>Turpes a tribunalibus arcentur.</hi> Vile perſons ought to be rejected by Courts of Judicature. And therefore witneſſes are required to be, not only <hi>Legales,</hi> Lawful men, but <hi>Probi,</hi> virtuous and good men, men of approved honeſty, from ſuch Witneſſes the Jury may expect (and ought to have before they find any Man guilty) a plain, full and <hi>clear</hi> evidence of <hi>eve<g ref="char:EOLhyphen"/>ry</hi> material part of the charge laid againſt him; and let me add, of all ſuch Circumſtances alſo, as may any way <hi>aggravate the Offence:</hi> for nothing that may endammage the accuſed party ſhould be taken upon Preſumption or ſup<g ref="char:EOLhyphen"/>poſition, nor without plain and clear Proof. The witneſſes diſpoſition is there<g ref="char:EOLhyphen"/>fore called evidence, becauſe it makes the Truth or falſhood of the charge evi<g ref="char:EOLhyphen"/>dent and plain: and ſays Coke, <hi>Probationes debent eſſe evidentes &amp; perſpicuae,</hi> proofs ought to be evident and clear. O that all men concerned in theſe and ſuch like Caſes, would ſo <hi>conſcienciouſly</hi> and conſiderately diſcharge the duty of their Offices, that with <hi>comfort</hi> they might give accompt thereof at the <hi>Great</hi> Judge at the <hi>laſt</hi> day! For why ſhould any draw upon their own heads the guilt of Perjury, and the vindictive cry of oppreſſed Innocents?</p>
+            <p>But if there be any that are eager and deſirous in their minds to have our Meetings puniſhed as Riots; Let me intreat them alſo to conſider, How <hi>diſho<g ref="char:EOLhyphen"/>nourable</hi> a Reflection it would be both to the <hi>Government,</hi> and to the <hi>Religion</hi> eſtabliſhed thereby, If peaceable, quiet, Religious Meetings, conſcienciouſly holden only and alone for the worſhip and Service of God (wherein <hi>no Evil</hi> is either acted or intended, <hi>no violence</hi> or force uſed, <hi>no breach</hi> of the <hi>peace</hi> made, <hi>no terrour</hi> given: but an innocent, meek, paſſive, and truly Chriſtian be<g ref="char:EOLhyphen"/>haviour and deportment ſhewn) ſhould be judicially declared <hi>Riots,</hi> and pun<g ref="char:EOLhyphen"/>iſhed
+<pb n="14" facs="tcp:153190:8"/>
+as ſuch: when at the ſame time our Law-Books aſſure us, that not only <hi>playing</hi> at Bowls, Dice, Cards, <hi>&amp;c.</hi> But even the Numerous aſſemblies that frequent thoſe more Clamorous, Rude, Impetuous and Boiſterous ſports of <hi>Dancings, Foot-ball playing, Baerbaitings, Bucklers</hi> or <hi>Fencings,</hi> and ſuch like, are <hi>not</hi> Riots, Routs, nor unlawful aſſemblies, ſhall ſuch <hi>vain</hi> and <hi>Ruffianly</hi> ſports, wherein ſo much <hi>Rudeneſs, diſorder</hi> and <hi>Prophanneſs</hi> is committed, (and which ſeem to be ſo near of Complexion to Riots) be declared to be <hi>no Riots:</hi> and ſhall <hi>peaceable</hi> and <hi>Religious Meetings,</hi> wherein only <hi>God is wor<g ref="char:EOLhyphen"/>ſhipped</hi> (and which have <hi>no</hi> ſhew nor appearance of Riots in them) be con<g ref="char:EOLhyphen"/>demned <hi>for Riots! <hi>God forbid.</hi>
+               </hi>
+            </p>
+            <p>If any ſhould think our Meetings may be Riots, becauſe we ſometimes meet in the open Streets or in the High-way; Let ſuch conſider, that we do not meet in the Streets or Highways by <hi>Choice,</hi> but by <hi>Conſtraint.</hi> We come not with <hi>intent</hi> to meet in the Streets or High-ways, but in our Meeting-Houſes. But where we are <hi>ſhut out</hi> and <hi>kept out</hi> of our Meeting-Houſes, we are <hi>neceſſitated</hi> to meet abroad. And yet there alſo we demean our ſelves <hi>peaceably</hi> and <hi>quiet<g ref="char:EOLhyphen"/>ly,</hi> not offering violence or injury to any, nor coming with any Intent ſo to do. And if any ſhould apprehend, that our not departing immediately upon a Conſtable's making Proclamation, doth make our Meetings Riots, it may not be amiſs for ſuch to inquire, whether there be any ſtatute <hi>in force,</hi> that doth impower Conſtables, and other inferiour Officers, to make ſuch Proclamati<g ref="char:EOLhyphen"/>on, and requires the perſons aſſembled forthwith to depart thereupon. The act made in the firſt year of <hi>Q. Mary,</hi> c. 12 (which appointed the making of Proclamation, in ſome Caſes of another nature, though not by a Conſtable, ſo far as I obſerve) being but a temporary act continued by <hi>Q. Eliz.</hi> (in the firſt year of her Reign, c. 16.) to the end of the next Parliament after her death is long ſince <hi>expired,</hi> or diſcontinued, as <hi>Pulton, Dalton</hi> and <hi>Keeble</hi> de<g ref="char:EOLhyphen"/>clare. However, if it were in force, it would not reach us or our Meetings, which are <hi>not guilty</hi> of any of <hi>thoſe Offences,</hi> againſt which that act was made.</p>
+            <p>Laſtly, I deſire the Reader to obſerve, that the difference between a Riot, Rout and unlawful aſſembly, is only in the execution or Non-Execution of that act, which, being done, makes a Riot. In all things elſe they are alike, there muſt be the <hi>ſame number</hi> of Perſons to make an <hi>unlawful aſſembly;</hi> as to make a <hi>Riot.</hi> There muſt be the <hi>ſame previous intent</hi> in the one as in the other; the fact intended to be done in an <hi>unlawful aſſembly,</hi> muſt be of the <hi>ſame</hi> na<g ref="char:EOLhyphen"/>ture with that which is dome in a <hi>Riot,</hi> that is, it muſt be evil in it ſelf and inju<g ref="char:EOLhyphen"/>rious to another, as well in the one as in the other. There muſt be <hi>vis arma<g ref="char:EOLhyphen"/>ta, force and arms</hi> to the making of an <hi>unlawfull aſſembly,</hi> as well as to the making of a <hi>Riot.</hi> There muſt be <hi>breach of the peace</hi> to make an <hi>unlawful aſſem<g ref="char:EOLhyphen"/>bly,</hi> as well as to make a <hi>Riot.</hi> There muſt be <hi>Terror to the people</hi> to make an <hi>unlawful aſſembly,</hi> as well as to make a <hi>Riot.</hi> All the ods is, that if the Perſons
+<pb n="15" facs="tcp:153190:8"/>
+ſo aſſembled, in ſuch forcible manner, to the Breach of the Peace and Terror of the People, do <hi>not actually perform</hi> that unlawful act, which is evil in it ſelf and injurious to the Perſon, or Poſſeſſions of another, but depart again <hi>without proceeding to do it,</hi> then it is only an <hi>unlawful aſſembly;</hi> whereas if they indeed <hi>do it,</hi> then it is a <hi>Riot.</hi> And a Rout is a degree between both, when after the Perſons are ſo aſſembled, there is ſome <hi>Progreſs</hi> made, they ride, go, or move forward, towards the Execution of ſuch Unlawful and injurious act, and yet do not actually execute it.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>SInce I have undertaken to diſcourſe of the nature of <hi>Riots,</hi> and there is ſome mention in Holy <hi>Scripture</hi> of <hi>Rioting,</hi> &amp;c. it will not be amiſs to ſhew what <hi>Rioting</hi> is in <hi>Scripture</hi> ſence alſo.</p>
+            <p>The Prodigal <hi>Son</hi> (in the Parable, <hi>Luke</hi> 15.13.) is ſaid to have waſted his ſubſtance with <hi>Riotous living</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] living <hi>Profuſely and diſſolutely,</hi> as <hi>Paſor</hi> explains it. The ſame word (in the ſubſtantive) is uſed, <hi>Epheſ.</hi> 5.18. and rendred, <hi>Exceſs;</hi> which <hi>Baeza</hi> expounds to be, <hi>Omnis Profuſio, eaque ſumma cum Turpitudine conjuncta;</hi> All manner of Profaneneſs, and that joyned with the greateſt Filthineſs. It is uſed again, <hi>Tit.</hi> 1.6. where it is required that the Children of ſuch as were to be ordained Elders, ſhould be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>not accuſed of Riot,</hi> that is, of leading a <hi>diſſolute</hi> and <hi>profuſe</hi> life. The ſame word is uſed again, 1 <hi>Pet.</hi> 4.4. and very well explained by the Verſe foregoing. For the Apoſtle having ſaid (Verſe 3.) <hi>The time paſt of our lives may ſuffice us to have wrought the will of the Gentiles, when we walked in Laſciviouſneſs, Luſts, Exceſs of Wine, Revellings, Banquettings and abominable Idolatries;</hi> adds Verſe. 4.) <hi>Wherein they</hi> (the Gentiles, who yet walked in ſuch things) <hi>think it ſtrange, that you ran not with them to the ſame Exceſs of</hi> RIOT, <hi>viz.</hi> to walk in <hi>Laſciviouſneſs, Luſts, Exceſs of Wine, Revellings, Banquettings,</hi> &amp;c. So that it is clear, that by <hi>Riot</hi> here (<hi>ver.</hi> 4.) he means the <hi>Laſciviouſneſs, Luſts, Exceſs of Wine, Revellings, Banquettings</hi> and <hi>abominable Idolatries</hi> (which he had newly mentioned, Verſe 3. and) which the Chriſtians, it ſeems, before Converſion, having walked with the Gentiles in, were now, after their Converſion to Chriſtianity, thought ſtrangely of, and blaſphemed, but the Gentiles, for not running on ſtill in the ſame. Theſe are of the Places (ſo far as I obſerve) wherein <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is Read in the New Teſtament; <q>It ſignifies, ſays <hi>Leigh,</hi> Two things: 1. <hi>Exceſs</hi> in <hi>Expences,</hi> op<g ref="char:EOLhyphen"/>poſite to <hi>Frugality.</hi> 2. <hi>Exceſs</hi> in <hi>Delights</hi> (whether it be in <hi>Meats</hi> or <hi>Drinks,</hi> or the like) op<g ref="char:EOLhyphen"/>poſite unto <hi>Temperance:</hi> and it ſignifieth theſe <hi>Vices</hi> in an <hi>Extremity.</hi> Or (as he gives it from another) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, <hi>Prodigality,</hi> is taken in a twofold ſence: either Properly, and then it ſignifies that <hi>Vice,</hi> whereby any one keeps not his Eſtate, Wealth, or Money; but ſquanders it away lightly and unprofitably upon any thing without any apparent advantage to himſelf or others. Or Improperly, and then it ſignifies <hi>Luxury,</hi> by which we <hi>laviſhly waſte</hi> our Eſtates upon our <hi>Pleaſures</hi> and <hi>Luſts,</hi> upon <hi>Plays, Feaſts, Exceſs</hi> of <hi>Apparel,</hi> &amp;c.</q>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:153190:9" rendition="simple:additions"/>
+               <hi>Carmel. a Lapide</hi> ſays, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies, 1. <hi>Surfeiting</hi> by too much Eating or Drinking, <hi>Ex<g ref="char:EOLhyphen"/>ceſs, Laſciviouſneſs.</hi> 2. <hi>Luxury,</hi> and <hi>Luſt. Zanchy</hi> ſays, It ſignifies <hi>Riotous Exceſs</hi> and <hi>Profuſeneſs</hi> joyn'd with the <hi>greateſt Villany.</hi> This, and more of this kind, ſee in <hi>Leigh</hi>'s <hi>Crit. Sacra.</hi> which ſufficiently ſhews what kind of thing <hi>Riot</hi> was in the Apoſtles daies.</p>
+            <p>Mention alſo we have of <hi>Rioting,</hi> in <hi>Rom.</hi> 13.13. <hi>Let us</hi> (ſays the Apoſtle) <hi>walk honeſtly</hi> (or decently, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>as in the day; not in Rioting and Envying and Drunkenneſs, not in Cham<g ref="char:EOLhyphen"/>bering and Wantonneſs, not in ſtrife and envying. Rioting</hi> here may well be underſtood by its Com<g ref="char:EOLhyphen"/>panions it is aſſociated with, <hi>viz. Drunkenneſs, Chambering, Wantonneſs, Strife,</hi> The word here uſed for Rioting is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which in <hi>Gal.</hi> 5.21. and 1 <hi>Pet.</hi> 4.3. is rendred <hi>Revelling.</hi> Nor is it elſewhere uſed in the New Teſtament, that I remember. In Latin it is turned <hi>Commeſſatio,</hi> which (ſays <hi>Leigh</hi>) ſignifies <hi>Exceſs of Belly-chear in Riotous Feaſting.</hi> And, he ſays, <hi>St. Ambroſe</hi> ex<g ref="char:EOLhyphen"/>pounds it, <hi>Luxurious Feaſting and Banquetting, wherein</hi> (ſays he) <hi>men take liberty to all Laſcivious and Riotous behaviour;</hi> Crit. ſacra.</p>
+            <p>There is one place more in the New Teſtament where we read the word <hi>Riot,</hi> and that is in 2 <hi>Pet.</hi> 2.13. where the Apoſtle ſpeaks of ſome, who <hi>counted it pleaſure to Riot in the day time.</hi> The Greek word there uſed is [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] which ſignifies <hi>Exceſs of Pleaſures</hi> and <hi>effeminating Deli<g ref="char:EOLhyphen"/>cacies.</hi> It is uſed in the ſame ſenſe, <hi>Luke</hi> 7.25. and <hi>James</hi> 5.5. in which laſt place it is joyned with a word that ſignifies to <hi>live Wantonly. (Ye have lived in Pleaſure on the Earth, and been Wanton</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>ye have nouriſhed your hearts, as in a day of ſlaughter; ye have condemned and killed the Juſt,</hi> ſaith the Apoſtles <hi>James</hi>) a word not elſewhere uſed in the New Teſtament, ſave in 1 <hi>Tim.</hi> 5.6. where we read, <hi>She that liveth in Pleaſure</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>is dead while ſhe liveth.</hi> Theſe are the <hi>Pleaſures</hi> the Apoſtle <hi>Peter</hi> called <hi>Riot.</hi> And this is all I remem<g ref="char:EOLhyphen"/>ber to have read of <hi>Riot</hi> and <hi>Riotting</hi> in the New Teſtament.</p>
+            <p>In the Old Teſtament, I meet with it but twice, <hi>Prov.</hi> 23.20. <hi>Be not among Wine-bibbers; amongſt Riotous Eaters of Fleſh.</hi> Chap. 28.7. <hi>He that is a Companion of Riotous perſons, ſhameth his Father.</hi> In the Margin, He that <hi>feedeth Gluttons,</hi> &amp;c. There is alſo a Marginal Reference to Chap. 29.3. where it is ſaid, <hi>He that keepeth Company with Harlots ſpendeth his ſubſtance.</hi> In Latin theſe Texts are turned by <hi>Hierom, Pagnine, Montanus, Tremellius</hi> and <hi>Junius,</hi> by the words <hi>Commeſſatio, Commeſſator,</hi> and <hi>Comedo</hi> (an old obſolete word) all ſignifying <hi>Gluttonous Gourman<g ref="char:EOLhyphen"/>diging,</hi> or <hi>inordinate Eating and Drinking,</hi> whereby men do <hi>Riotouſly waſte</hi> and <hi>conſume</hi> their Eſtates. Let this ſuffice, without particular Application, to ſhew what <hi>Rioting</hi> and <hi>Rioters</hi> are in <hi>Scripture</hi> ſence.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
